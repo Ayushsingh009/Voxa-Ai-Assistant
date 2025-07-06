@@ -37,14 +37,14 @@
 - 🎙️ Voice profile selection
 - 🛡️ Mic permission/privacy banner
 - 🔄 Continuous listening toggle
-- ✍️ Typing input fallback mode
+- ✍️ Personalization
 
 ---
 
 ## 🧪 Local Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/voxa-ai-assistant.git
+git clone https://github.com/your-username/Voxa-Ai-Asistant.git
 cd voxa-ai-assistant
 npm install
 Create a .env file in the root:-VITE_GEMINI_API_KEY=your_actual_api_key_here
