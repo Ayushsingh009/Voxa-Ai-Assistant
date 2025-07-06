@@ -44,7 +44,7 @@
 ## 🧪 Local Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/Voxa-Ai-Asistant.git
+git clone https://github.com/your-username/Voxa-Ai-Assistant.git
 cd voxa-ai-assistant
 npm install
 Create a .env file in the root:-VITE_GEMINI_API_KEY=your_actual_api_key_here
